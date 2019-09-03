@@ -1,0 +1,32 @@
+#head {
+    font-size:40px;
+    font-weight: bold;
+    margin:0;
+    }
+    
+    #title {
+    font-size:30px;
+    font-weight: normal;
+     margin:20px 0;   
+    }
+    
+    #timetext {
+    font-size:30px;
+    font-weight: bold;
+    margin:0px;
+    }
+    
+            
+    .divfus {
+    float:left;
+    width:200px;
+    height:20px;}
+    
+    .testclass{
+    background-color:blue;
+    height:221px; 
+    width:221px;
+    margin-left:53px;
+    margin-top:290px;
+    float:left;
+    border-radius:0%;}
